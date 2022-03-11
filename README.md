@@ -22,9 +22,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=WangDanPeng&show_icons=true">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abilish)](https://github.com/abilish/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abilish)](https://github.com/abilish/github-readme-stats)
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abilish&show_icons=true">
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abilish)](https://github.com/abilish/github-readme-stats)
